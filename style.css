@@ -1,0 +1,33 @@
+body{
+    color: #4E4E4E;
+    font-family: sans-serif;
+    font-size: 16px;
+    background: white;
+    margin: 0px auto;
+    padding: 24px;
+    position: relative;
+    width: 890px;
+    border-top: 0px;
+}
+
+header{
+    margin: 0px auto;
+    width: 642px;
+    font-size: 28pt;
+    font-family: 'Josefin Sans Std Light', serif;
+    font-style: normal;
+    font-weight: 700;
+    min-height: 50px;
+    padding-left: 50px;
+    background-image: url(logo.svg);
+    background-repeat: no-repeat;
+}
+
+header span{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+#login, #signup{
+}
